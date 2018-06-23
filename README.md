@@ -1,4 +1,6 @@
 # Objectdetection
+## Development environment
+### UP2 board, myraid chip(AI core), Ubuntu 16.04
 
 
 1.      Excute ‘build.sh’ in the archive file to compile the code.
