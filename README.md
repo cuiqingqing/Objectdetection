@@ -33,17 +33,17 @@
 
 5.      Execute the demo
 
-a.      CPU mode
+        a.      CPU mode
 
-        cd network/ir_fp32
+                cd network/ir_fp32
 
-        ./object_detection_demo_ssd_async -i bus_station_6094_960x540.mp4 -m SSD_GoogleNetV2.xml 
+                ./object_detection_demo_ssd_async -i bus_station_6094_960x540.mp4 -m SSD_GoogleNetV2.xml 
 
-b.     MYRIAD mode 
+        b.     MYRIAD mode 
 
-        cd network/ir_fp16
+                 cd network/ir_fp16
 
-        sudo ./object_detection_demo_ssd_async -i bus_station_6094_960x540.mp4 -m SSD_GoogleNetV2.xml -d MYRIAD
+                 sudo ./object_detection_demo_ssd_async -i bus_station_6094_960x540.mp4 -m SSD_GoogleNetV2.xml -d MYRIAD
 
  
 
