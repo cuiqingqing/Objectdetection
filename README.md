@@ -48,4 +48,4 @@
                  sudo ./object_detection_demo_ssd_async -i bus_station_6094_960x540.mp4 -m SSD_GoogleNetV2.xml -d MYRIAD
 
  
-
+add test qqcui
